@@ -10,7 +10,7 @@
     width: 50%;
 }
 
-h1.title, h3.caption {
-    line-height: 0%;
+h1.title, .caption {
+    line-height: 20%;
     text-align: center;
 }

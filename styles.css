@@ -1,0 +1,16 @@
+*{
+    font-family:serif;
+    background-color: bisque;
+}
+
+/*img {
+    height:auto;
+    width:1080;
+}*/
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

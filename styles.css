@@ -21,3 +21,8 @@ h1.title, .caption {
     margin-bottom:0%;
     padding:0;
 }
+
+div.home {
+    text-align: center;
+    font-size: 20px;
+}
